@@ -30,4 +30,7 @@ CMPEN331 - lab05
 
 #### Capture.png shows the simulated waveform of the program, I/O naming is based closely on the 5StageMIPS.png diagram
 
+Mostly a proof of concept, other than add no ALU operations have been tested/debugged yet.
+ALU control unit is an intermediate module between the main Control unit and the ALU, not featured in the diagram
+
 UI coming soon
