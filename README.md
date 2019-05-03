@@ -1,5 +1,3 @@
-# lab05
-CMPEN331 - lab05
 
 # 5 Stage Pipelined MIPS R-type & I-type Processor
 
